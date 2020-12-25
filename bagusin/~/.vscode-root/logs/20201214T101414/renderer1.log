@@ -1,0 +1,2 @@
+[2020-12-14 10:14:18.032] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/PABWE/proyek/bagusin/.vscode'
+[2020-12-14 10:15:40.031] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/pabwe/bagusin/.vscode'

@@ -1,0 +1,4 @@
+[2020-12-13 18:51:42.471] [sharedprocess] [info] main {"machineId":"1d6e71b933f0ad9cc715f3b18f02324c12769610be4e14bece52192a19a1953d","windowId":2}
+[2020-12-13 18:51:42.565] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/PABWE/proyek/bagusin/~/.vscode-root/User/snippets'
+[2020-12-13 18:51:45.071] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /root/.vscode/extensions/ms-toolsai.jupyter-2020.12.411183155
+[2020-12-13 18:52:22.494] [sharedprocess] [info] Starting to clean up unused language packs.
