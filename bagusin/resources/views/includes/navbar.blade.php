@@ -51,11 +51,7 @@
     </div>
     @endif
 
-    @if (Auth::guard('mechanic')->user())
-    <a class="btn nav-item" type="button" class="" data-toggle="modal" data-target="#profileModal">
-      {{ Auth::guard('mechanic')->user()->name }}
-    </a>
-    @elseif(Auth::guard('admin')->user())
+    @if(Auth::guard('admin')->user())
     <a class="btn nav-item" href="/admin/dashboard">Admin</a>
     <a class="btn nav-item" href="/admin/logout">Keluar</a>
     @endif
